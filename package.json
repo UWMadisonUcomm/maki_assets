@@ -1,0 +1,12 @@
+{
+  "name": "maki_assets",
+  "version": "0.0.1",
+  "description": "Make assets for Ruby",
+  "author": "Bryan Shelton",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "maki": "~0.4.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
